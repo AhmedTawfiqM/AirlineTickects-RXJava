@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Airline Tickets</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="lbl_price">Price</string>
+    <string name="title_activity_test">TestActivity</string>
+</resources>
